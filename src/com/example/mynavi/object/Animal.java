@@ -1,4 +1,6 @@
 package com.example.mynavi.object;
 
-// 最小限のAnimalクラス
-public class Animal {}
+public class Animal {
+	String name = "ポチ";
+	String color = "White";
+}
