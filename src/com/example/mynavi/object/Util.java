@@ -2,9 +2,12 @@ package com.example.mynavi.object;
 
 public class Util {
 
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
+	public static double sum(double... values) {
+		double result = 0;
+	    for (double value : values) {
+	      result += value;
+	    }
+	    return result;
 	}
 
 }
