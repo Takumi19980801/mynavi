@@ -4,6 +4,11 @@ class Animal {
 	String name;
 	String color;
 	
+	{
+		this.name = "ニンザブロウ";
+		this.color = "White";
+	}
+	
 	public Animal() {
 	}
 	
