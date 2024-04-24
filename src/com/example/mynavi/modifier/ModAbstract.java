@@ -1,10 +1,5 @@
 package com.example.mynavi.modifier;
-
-public class ModAbstract {
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
-	}
-
+ 
+public abstract class ModAbstract {
+  abstract void test();
 }
