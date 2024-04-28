@@ -1,10 +1,8 @@
 package com.example.mynavi.modifier;
-
+ 
 public class ModFinal2 {
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
-	}
-
+  final void test() { } 
+}
+class ChildClass2 extends ModFinal2 {
+  //void test() {}  → メソッドをオーバーライドできない
 }

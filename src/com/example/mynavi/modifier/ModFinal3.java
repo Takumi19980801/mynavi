@@ -1,10 +1,8 @@
 package com.example.mynavi.modifier;
-
-public class ModFinal3 {
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
-	}
-
+ 
+public final class ModFinal3 {
+  final int x = 0;
+  void test() {
+    //this.x = 5;   → フィールドに再代入できない
+  }
 }
