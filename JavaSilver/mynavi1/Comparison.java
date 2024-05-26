@@ -1,5 +1,7 @@
 package mynavi1;
 
+//比較演算子
+
 public class Comparison {
 
 	public static void main(String[] args) {
