@@ -1,5 +1,7 @@
 package mynavi2;
 
+//if文やfor文はブロックを省略可能
+
 public class For2 {
 
 	public static void main(String[] args) {
