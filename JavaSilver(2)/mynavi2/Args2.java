@@ -1,5 +1,7 @@
 package mynavi2;
 
+//argsをString型からint型に変換する
+
 public class Args2 {
 
 	public static void main(String[] args) {
