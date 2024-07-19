@@ -1,4 +1,4 @@
-package mynavi2;
+package mynavi1;
 
 public class Test7 {
 
