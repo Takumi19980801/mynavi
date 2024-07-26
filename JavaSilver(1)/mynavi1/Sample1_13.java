@@ -1,9 +1,11 @@
 package mynavi1;
 
 public class Sample1_13 {
-	static String str = "30";
+	static String str;
 
 	public static void main(String[] args) {
+		//デフォルト値のnullが代入されてしまい、例外処理になる
+		//メソッドの引数にnullはいれられない
 		switch(str) {
 		case "10" : str += "10";
 		default : str += "def";

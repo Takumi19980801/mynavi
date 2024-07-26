@@ -2,6 +2,7 @@ package mynavi1;
 
 public class Sample_Constructor_B extends Sample_Constructor_A {
 	public Sample_Constructor_B() {
+		super();
 		System.out.println("Sub");
 	}
 	public Sample_Constructor_B(String str) {
