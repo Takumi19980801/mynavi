@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="paiza_d"/>
 	<classpathentry kind="src" path="advanced"/>
 	<classpathentry kind="src" path="besic"/>
+	<classpathentry kind="src" path="Java_Gold"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
